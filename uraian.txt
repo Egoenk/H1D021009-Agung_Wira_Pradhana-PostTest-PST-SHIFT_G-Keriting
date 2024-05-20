@@ -1,0 +1,26 @@
+Soal : 
+    1. Cara Kerja Servo : 
+        Servo adalah perangkat yang digunakan untuk mengontrol sudut atau posisi
+        objek dengan presisi tinggi. Servo menerima sinyal masukan lalu mencockanya
+        dengan keadaan servo sekarang lalu selanjutnya servo akan mengoreksi sesuai dengan
+        posisi menjadi seperti yang diinginkan.
+
+    2. Cara Kerja Ultarsonik : 
+        Ultrasonik bekerja dengan mengirimkan gelombang suara frekuensi 
+        tinggi ke sensor dan mengukur waktu yang diperlukan untuk gelombang 
+        tersebut kembali ke sensor yang digunakan untuk menghitung jarak objek.
+
+    3. Contoh barang sehari - hari yang menggunakan Embeded System : 
+        a. TV
+        b. Mesin Cuci
+        c. Kulkas
+        d. Microwave
+        e. Kalkulator
+    
+    4.  Project "Fingerprint Home Lock"
+        Project fingerprint home lock berisi sebuah Sistem yang memungkinkan
+         penghuni rumah untuk mengendalikan akses masuk dengan menggunakan 
+         Biometrik, khususnya fingerprint. Sistem ini dilengkapi dengan fitur-fitur 
+         keamanan seperti notifikasi real-time , dan log penggunaan, dari pemakaina
+         Dengan "Smart Home Lock", penghuni dapat memantau dan mengelola keamanan rumah 
+         mereka dari mana saja, kapan saja.
